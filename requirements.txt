@@ -1,0 +1,11 @@
+ipykernel
+jupyterlab
+matplotlib
+mlflow
+nltk
+numpy
+optuna
+pandas
+scikit-learn
+tensorboard
+torch
